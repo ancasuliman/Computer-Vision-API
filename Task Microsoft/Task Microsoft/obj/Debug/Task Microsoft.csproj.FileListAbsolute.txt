@@ -1,0 +1,10 @@
+C:\Users\Anca\Desktop\visual studio projects\Task Microsoft\Task Microsoft\bin\Debug\Task Microsoft.exe.config
+C:\Users\Anca\Desktop\visual studio projects\Task Microsoft\Task Microsoft\bin\Debug\Task Microsoft.exe
+C:\Users\Anca\Desktop\visual studio projects\Task Microsoft\Task Microsoft\bin\Debug\Task Microsoft.pdb
+C:\Users\Anca\Desktop\visual studio projects\Task Microsoft\Task Microsoft\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\Users\Anca\Desktop\visual studio projects\Task Microsoft\Task Microsoft\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anca\Desktop\visual studio projects\Task Microsoft\Task Microsoft\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anca\Desktop\visual studio projects\Task Microsoft\Task Microsoft\obj\Debug\Task Microsoft.csprojResolveAssemblyReference.cache
+C:\Users\Anca\Desktop\visual studio projects\Task Microsoft\Task Microsoft\obj\Debug\Task Microsoft.csproj.CoreCompileInputs.cache
+C:\Users\Anca\Desktop\visual studio projects\Task Microsoft\Task Microsoft\obj\Debug\Task Microsoft.exe
+C:\Users\Anca\Desktop\visual studio projects\Task Microsoft\Task Microsoft\obj\Debug\Task Microsoft.pdb
